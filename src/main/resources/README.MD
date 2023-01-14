@@ -3,7 +3,7 @@ read : https://docs.spring.io/spring-data/neo4j/docs/current/reference/html/
 
 it's a demo project of Web Access Control using graphic DB(neo4j).
 
-neo4j : Repo
+neo4j : Repo.
 
 spring web :
 
